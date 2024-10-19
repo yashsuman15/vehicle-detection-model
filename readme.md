@@ -41,7 +41,7 @@ This project implements a real-time vehicle detection and counting system using 
    pip install opencv-python ultralytics cvzone
    ```
 
-3. Download the YOLOv8 weights file and place it in the appropriate directory (update the path in the script if necessary).
+3. Download the YOLOv11 weights file and place it in the appropriate directory (update the path in the script if necessary).
 
 ## Usage
 
