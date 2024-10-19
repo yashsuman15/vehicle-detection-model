@@ -78,7 +78,7 @@ while cap.isOpened():
                              offset=5,
                              border=2)
     
-    # Add legend and count to the frame
+
     legend_y = 30
     for class_name, color in class_colors.items():
         count = vehicle_counts[class_name]
@@ -91,7 +91,7 @@ while cap.isOpened():
                    2)
         legend_y += 20
     
-    # Display the frame with class name and counts
+    
     cv2.imshow("Vehicle Detection with Counts", frame)
 
     if cv2.waitKey(1) & 0xFF == ord("q"):
