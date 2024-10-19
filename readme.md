@@ -11,6 +11,10 @@ This project implements a real-time vehicle detection and counting system using 
 - On-screen legend showing vehicle counts
 - Confidence threshold for reducing false positives
 
+## Preview
+![adit_mp4-289_jpg rf 47dc54510dd7ae00206e5808e58c898c](https://github.com/user-attachments/assets/ee3fe9de-3115-4c49-b534-b4de5c1ad212)
+
+
 ## Requirements
 
 - Python 3.11
