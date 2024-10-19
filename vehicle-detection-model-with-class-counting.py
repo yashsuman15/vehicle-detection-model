@@ -3,10 +3,10 @@ from ultralytics import YOLO
 import cvzone
 
 # Load the YOLOv8 model
-model = YOLO(r"E:\coding\project\vehicle-detection-model\runs\kaggle\working\runs\detect\train\weights\best.pt", task="detect")
+model = YOLO(r"runs\kaggle\working\runs\detect\train\weights\best.pt", task="detect")
 
 # Open video capture
-cap = cv2.VideoCapture(r"E:\coding\project\vehicle-detection-model\media-sample\v1.mp4")
+cap = cv2.VideoCapture(r"media-sample\v1.mp4")
 
 # Define colors for different vehicle classes (BGR format)
 class_colors = {
