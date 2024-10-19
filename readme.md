@@ -12,6 +12,10 @@ This project implements a real-time vehicle detection and counting system using 
 - Confidence threshold for reducing false positives
 
 ## Preview
+1.added counting each vehicle class
+![image](https://github.com/user-attachments/assets/cfc2fcc3-20d3-4e59-a5bd-7f16b1057a29)
+
+2.detection boxes with class name
 ![adit_mp4-289_jpg rf 47dc54510dd7ae00206e5808e58c898c](https://github.com/user-attachments/assets/ee3fe9de-3115-4c49-b534-b4de5c1ad212)
 
 
