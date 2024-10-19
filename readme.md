@@ -4,7 +4,7 @@ This project implements a real-time vehicle detection and counting system using 
 
 ## Features
 
-- Real-time vehicle detection using YOLOv8
+- Real-time vehicle detection using YOLOv11
 - Classification of multiple vehicle types (e.g., cars, buses, trucks)
 - Color-coded bounding boxes for each vehicle class
 - Live counting of detected vehicles by class
