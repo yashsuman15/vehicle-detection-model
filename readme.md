@@ -22,7 +22,7 @@ This project implements a real-time vehicle detection and counting system using 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/vehicle-detection-model.git
+   git clone https://github.com/yashsuman15/vehicle-detection-model.git
    cd vehicle-detection-model
    ```
 
